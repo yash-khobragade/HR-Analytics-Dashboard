@@ -21,7 +21,7 @@ This project focuses on analyzing **employee attrition rates** using **Microsoft
 - **Interactive Dashboards** – Designed for easy interpretation of data-driven insights
    
 ## 📸 Dashboard Preview  
-![HR Analytics Dashboard]()
+![HR Analytics Dashboard](https://github.com/yash-khobragade/HR-Analytics-Dashboard/blob/main/Dashboard.png)
 
 
 ## 🚀 How to Use  
